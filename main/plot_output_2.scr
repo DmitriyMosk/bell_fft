@@ -1,0 +1,2 @@
+set style data linespoints
+plot 'output_data_re_2.dat', 'output_data_im_2.dat'
